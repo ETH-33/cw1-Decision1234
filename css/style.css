@@ -356,7 +356,7 @@ button {
     font-weight: bold;
 }
 
-.gifts_text {
+.Project-1_text {
     width: 100%;
     float: left;
     color: #010102;
@@ -452,9 +452,9 @@ button {
 .Project-1_section {
     width: 100%;
     float: left;
-    background-image: url(../Project-1bg.png);
+    background-image: url(../Nepal_map_design.png);
     height: auto;
-    background-size: cover;
+    background-size:98%;
     position: relative;
     left: 30px;
 }
@@ -543,18 +543,23 @@ button {
     background-color: #ffffff;
 }
 
-.shop_section {
+.Project-0_section {
     width: 100%;
     float: left;
 }
 
-.shop_taital {
+.Project-0_taital {
     width: 100%;
     float: left;
+    background-image: url(../Nepal_map_design.png);
+    height: 80%;
+    background-size: 101%;
+    padding-top: 50px;
+    padding-bottom: 10%;
     margin-top: 70px;
 }
 
-.shop_text {
+.Project-0_text {
     width: 100%;
     float: left;
     font-size: 40px;
@@ -600,11 +605,10 @@ button {
 .contact_bg {
     width: 100%;
     float: left;
-    background-image: url(../images/img-8.jpg);
     height: auto;
-    background-size: cover;
+    background-size: 99%;
     padding-top: 50px;
-    padding-bottom: 50px
+    padding-bottom: 10%;
 }
 
 .form_main {
@@ -752,7 +756,7 @@ button {
 }
 
 
-.shop_section_start {
+.Project-0_section_start {
     width: 100%;
     float: left;
 }
